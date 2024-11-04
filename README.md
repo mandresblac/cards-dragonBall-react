@@ -14,4 +14,4 @@
 ![Imagen 2](./src/assets/dragonBall2..png)
 
 # Link del proyecto
-- Sitio web del [Proycto](https://dragonball-cards.netlify.app/).
+- Visita el sitio web del [Proyecto](https://dragonball-cards.netlify.app/).
