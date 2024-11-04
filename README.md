@@ -11,4 +11,4 @@
 
 ![Imagen 1](./src/assets/dragonBall1.png)
 
-![Imagen 1](./src/assets/dragonBall2.png)
+![Imagen 2](./src/assets/dragonBall2.png)
