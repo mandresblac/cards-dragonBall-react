@@ -1,0 +1,46 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+h1 {
+  margin: 20px 0px;
+  font-size: 2.5rem;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.card {
+  width: 340px;
+  max-height:  auto;
+  padding: 30px 20px 20px;
+  text-wrap: pretty;
+  overflow-x: auto
+}
+
+img {
+  max-width: 250px;
+  height: 250px;
+  object-fit: contain;/* La imagen se ajusta completamente dentro del contenedor, sin recortarse, pero manteniendo su proporción original */
+}
+
+span {
+  width: 100%;
+  display: inline-block;
+  font-size: 1rem;
+}
+
+.descripcion{
+  height: 80px;
+  overflow-y: scroll;/* genera scroll vertical en el texto */
+  background-color: #f3f3f3;
+}
